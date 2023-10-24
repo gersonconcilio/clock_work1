@@ -3,9 +3,9 @@
 LiquidCrystal lcd(13,12,11,10,9,8);
 
 // VARIAVEIS RELÓGIO
-int hh = 23;
-int mm = 59;
-int ss = 50;
+int hh = 0;
+int mm = 0;
+int ss = 0;
 
 //CONTADOR
 int cont = 0;
